@@ -1,87 +1,24 @@
-## Hi there 👋
+## Hi there 👋 It's me Hemant
 
- 
-# Hi there 👋, I'm Hemant
+### Java Full Stack Developer | Spring Boot Enthusiast | Computer Science Graduate 💻 Passionate about building scalable and user-friendly applications with modern web technologies. 🌱 Currently learning **Spring Boot, REST APIs, and Data Structures & Algorithms**. 🚀 Interested in **backend development, full stack applications, and problem-solving**. 🎯 Seeking opportunities to contribute, learn, and grow as a software developer. 📫 Reach me at: **your.email@example.com**
+- Social Presence
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
-### Java Full Stack Developer | Spring Boot Enthusiast | Computer Science Graduate
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
 
-💻 Passionate about building scalable and user-friendly applications with modern web technologies.
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 
-🌱 Currently learning **Spring Boot, REST APIs, and Data Structures & Algorithms**.
 
-🚀 Interested in **backend development, full stack applications, and problem-solving**.
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-🎯 Seeking opportunities to contribute, learn, and grow as a software developer.
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-📫 Reach me at: **your.email@example.com**
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
----
-
-## 🚀 About Me
-
-- 🔭 Working on personal full stack projects
-- 💡 Strong interest in Java backend development
-- 👨‍💻 Experienced with building web applications using JavaScript and React
-- 🤝 Open to collaboration on interesting projects
-- ⚡ I enjoy learning new technologies and turning ideas into real-world solutions
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Database
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🤟 Sign Language Translator
-
-AI-powered application that recognizes sign language gestures and converts them into text using machine learning techniques.
-
-**Tech Stack:** Python, MediaPipe, TensorFlow, JavaScript, MongoDB
-
-### 💰 Expense Tracker
-
-A full stack application for managing and tracking expenses with an intuitive user interface.
-
-**Tech Stack:** React, JavaScript, Node.js, SQL
-
----
-
-## 📊 GitHub Stats
-
-![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemant-purusoth&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hemant-purusoth&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-purusoth&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-```
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
